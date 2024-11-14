@@ -1,0 +1,17 @@
+
+body {
+	background-color:#81A33E;
+	color:#81A33E;
+	text-align: center;
+}
+
+img {
+	width:120px;
+	align-content: center;
+	border-color:#F5C396;
+}
+
+.container {
+	background-color: #F5C396;
+	color:#81A33E;
+}
