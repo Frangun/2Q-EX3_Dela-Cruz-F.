@@ -1,17 +1,14 @@
-
 body {
 	background-color:#81A33E;
 	color:#81A33E;
-	text-align: center;
-}
-
-img {
-	width:120px;
-	align-content: center;
-	border-color:#F5C396;
 }
 
 .container {
 	background-color: #F5C396;
-	color:#81A33E;
+	padding:20px;
+	border-radius: 8px;
+}
+
+img {
+	width:300px;
 }
